@@ -1,0 +1,23 @@
+{
+  "name": "middle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu-2509/middle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manu-2509/middle/issues"
+  },
+  "homepage": "https://github.com/manu-2509/middle#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
